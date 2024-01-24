@@ -1,5 +1,10 @@
-const puppeteer = require('puppeteer');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+const puppeteer = require('puppeteer-extra')
+const StealthPlugin = require('puppeteer-extra-plugin-stealth')
+const AdblockerPlugin = require('puppeteer-extra-plugin-adblocker')
+
+puppeteer.use(StealthPlugin())
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }))
 
 function quitarTildes(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");

@@ -10,6 +10,20 @@ function quitarTildes(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
+async function scrollInfinito(page, selector, cantidad) {
+    while (true) {
+        const element = await page.evaluate(selector => {
+            return document.querySelector(selector).innerText;
+        }, selector);
+        if (element == cantidad) {
+            break;
+        }
+        await page.keyboard.press('End');
+        await page.waitForTimeout(500);
+    }
+}
+
+
 async function scrapConstrumart (region, comuna, fecha){
     let day = fecha.getDate(); // Día del mes
     let month = fecha.getMonth() + 1; // Mes (Enero es 0)
@@ -29,9 +43,23 @@ async function scrapConstrumart (region, comuna, fecha){
     const selector_precio = 'span.vtex-product-price-1-x-sellingPrice>span.vtex-product-price-1-x-sellingPriceValue--summary';
     const selector_nombre = '.vtex-product-summary-2-x-productNameContainer'
     const selector_links = 'a.vtex-product-summary-2-x-clearLink'
+    const selector_carga = 'span.vtex-search-result-3-x-showingProductsCount.b'
+    const selector_cantidad = 'div.vtex-search-result-3-x-totalProducts--layout span'
+
+    const cantidad = await page.evaluate(selector => {
+        const elemento = document.querySelector(selector);
+        if (elemento) {
+            const textoCompleto = elemento.textContent || '';
+            const numero = textoCompleto.split(' ')[0];
+            return numero.trim();
+        }
+        return null;
+    }, selector_cantidad)
 
     await page.waitForSelector('strong.construmartcl-custom-apps-0-x-triggerSelectedStore');
     await page.waitForSelector('#gallery-layout-container')
+    
+    await scrollInfinito(page, selector_carga, '100')
 
     const links = await page.evaluate(selector => {
         const elementos = Array.from(document.querySelectorAll(selector));

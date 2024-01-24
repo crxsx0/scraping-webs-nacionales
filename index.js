@@ -1,6 +1,6 @@
 const scrapConstrumart = require('./construmart')
 
-const fecha_extraccion = new Date().toISOString()
+const fecha_extraccion = new Date()
 const region = 'XIII REGIÓN METROPOLITANA DE SANTIAGO'
 const comuna = 'LAS CONDES'
 

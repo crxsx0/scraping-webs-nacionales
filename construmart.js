@@ -59,7 +59,7 @@ async function scrapConstrumart (region, comuna, fecha){
     await page.waitForSelector('strong.construmartcl-custom-apps-0-x-triggerSelectedStore');
     await page.waitForSelector('#gallery-layout-container')
     
-    await scrollInfinito(page, selector_carga, '100')
+    await scrollInfinito(page, selector_carga, cantidad)
 
     const links = await page.evaluate(selector => {
         const elementos = Array.from(document.querySelectorAll(selector));

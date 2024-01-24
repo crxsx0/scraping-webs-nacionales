@@ -6,7 +6,11 @@ function quitarTildes(str) {
 }
 
 async function scrapConstrumart (region, comuna, fecha){
-    const path_csv = 'datos_'+comuna.toLowerCase().replace(/\ /g, '_')+'.csv'
+    let day = fecha.getDate(); // Día del mes
+    let month = fecha.getMonth() + 1; // Mes (Enero es 0)
+    let year = fecha.getFullYear(); // Año
+    let fechaFormateada = `${year}${month}${day}`
+    const path_csv = 'datos_'+comuna.toLowerCase().replace(/\ /g, '_')+'_'+fechaFormateada+'.csv'
 
     const browser = await puppeteer.launch({headless: 'new'});
     const page = await browser.newPage();
@@ -41,7 +45,7 @@ async function scrapConstrumart (region, comuna, fecha){
         link,
         precio: precios[index] || '', 
         texto: quitarTildes(textos[index]) || '',
-        fecha_extraccion: fecha || '',
+        fecha_extraccion: fecha.toISOString() || '',
         region: quitarTildes(region) || '',
         comuna: comuna || ''
     }));

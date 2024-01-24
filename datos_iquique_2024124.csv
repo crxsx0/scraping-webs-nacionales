@@ -1,9 +1,97 @@
 Link,Precio,Texto,Fecha,Region,Comuna
-https://www.construmart.cl/terciado-estructural-canto-azul-9x1220-mm-2-44-mt/p,$14290,TABLERO TERCIADO ESTRUCTURAL 9 X 1220 X 2440 MM,2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/terciado-ranurado-12-x-1-220-x-2-440-mm/p,$21990,TERCIADO RANURADO CLASICO 12 X 1220 X 2440 MM,2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/tablero-osb-11-1-x-1-220-x-2-440-mm/p,$13690,"TABLERO OSB 11,1 X 1220 X 2440 MM",2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/tabla-tapa-3-2-mt/p,$890,"TABLA TAPA 1 X 3"" 3,2 MT",2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/pino-verde-dimensionado-2x2-3-2-mt/p,$1730,"PINO DIMENSIONADO VERDE 2"" X 2"" 3,2 MT",2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/terciado-estructural-canto-azul-18x1220-mm-2-44-mt/p,$21690,TABLERO TERCIADO ESTRUCTURAL 18 X 1220 X 2440 MM,2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/pino-seco-cepillado-1x2-3-2-mt/p,$1330,"PINO CEPILLADO SECO 1"" X 2"" 3,2 MT",2024-1-24,I TARAPACA,IQUIQUE
-https://www.construmart.cl/tablero-estructural-osb-st-9-5x1220x2440-mm/p,$13290,"TABLERO OSB 9,5 X 1220 X 2440 MM",2024-1-24,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-estructural-canto-azul-9x1220-mm-2-44-mt/p,$14290,TABLERO TERCIADO ESTRUCTURAL 9 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-ranurado-12-x-1-220-x-2-440-mm/p,$21990,TERCIADO RANURADO CLASICO 12 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-osb-11-1-x-1-220-x-2-440-mm/p,$13690,"TABLERO OSB 11,1 X 1220 X 2440 MM",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tabla-tapa-3-2-mt/p,$890,"TABLA TAPA 1 X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x2-3-2-mt/p,$1730,"PINO DIMENSIONADO VERDE 2"" X 2"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-estructural-canto-azul-18x1220-mm-2-44-mt/p,$21690,TABLERO TERCIADO ESTRUCTURAL 18 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x2-3-2-mt/p,$1330,"PINO CEPILLADO SECO 1"" X 2"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-estructural-osb-st-9-5x1220x2440-mm/p,$13290,"TABLERO OSB 9,5 X 1220 X 2440 MM",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-ranurado-colonial-8-5-x-1-220-x-2-440-mm/p,$18190,TERCIADO RANURADO COLONIAL 8.5 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x3-3-2-mt/p,$2990,"PINO DIMENSIONADO VERDE 2"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x3-3-2-mt/p,$1870,"PINO CEPILLADO SECO 1"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x4-3-2-mt/p,$2470,"PINO CEPILLADO SECO 1"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tabla_tapa_1_x_4_3_2_mt/p,$2590,"TABLA TAPA 1"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-estructural-canto-azul-15x1220-mm-2-44-mt/p,$28970,"TABLERO TERCIADO ESTRUCTURAL CANTO AZUL 15 X 1220 MM 2,44 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-cierre-perimetral-osb-multiproposito-8x1220x2440-mm/p,$14790,TABLERO OSB CIERRE PERIMETRAL 8 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-2x2-3-2-mt/p,$3190,"PINO CEPILLADO SECO 2"" X 2"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-tinglado-3-4x5-3-2-mt/p,$2650,"PINO TINGLADO CEPILLADO SECO 3/4"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x5-3-2-mt/p,$4070,"PINO CEPILLADO SECO 1"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/perfil-seco-cielo-1-2x4-3-2-mt/p,$2290,"PINO CIELO SECO 1/2"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-1x4-3-2-mt/p,$2940,"PINO DIMENSIONADO VERDE 1"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-estructural-12x1220-mm-2-44-mt/p,$26840,TABLERO TERCIADO ESTRUCTURAL LEONERA 12 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cepillado-seco-2-x-8-3-2-mt/p,$11990,"PINO CEPILLADO SECO 2"" X 8"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-1x2-3-2-mt/p,$1410,"PINO DIMENSIONADO VERDE 1"" X 2"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x6-3-2-mt/p,$4790,"PINO CEPILLADO SECO 1"" X 6"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-2x3-3-2-mt/p,$5290,"PINO CEPILLADO SECO 2"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x10-3-2-mt/p,$11190,"PINO CEPILLADO SECO 1"" X 10"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cepillado-seco-2-x-6-3-2-mt/p,$9990,"PINO CEPILLADO SECO 2"" X 6"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-1x8-3-2-mt/p,$7990,"PINO CEPILLADO SECO 1"" X 8"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/polin-impregnado-3-a-4-2-44-mt/p,$6550,"POLIN PINO IMPREGNADO 3"" A 4"" 2,44 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-durolac-2-8x1850x2440-mm/p,$11690,"TABLERO DUROLAC 2,8 X 1520 X 2440 MM BLANCO",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-cierre-perimetral-olb-8x1220x2440-mm/p,$14790,TABLERO OLB CIERRE PERIMETRAL 8 X 1220 X 2400 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cepillado-seco-2-x-4-3-2-mt/p,$6510,"PINO CEPILLADO SECO 2"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x4-3-2-mt/p,$6910,"PINO DIMENSIONADO VERDE 2"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/rollete-impregnado-3-a-4-2-6-mt/p,$7430,"ROLLETE IMPREGNADO 3"" A 4"" 2,60 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-seco-cepillado-2x10-3-2-mt/p,$20510,"PINO CEPILLADO SECO 2"" X 10"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/viga-estructural-2-x-6-4-mt/p,$17470,"VIGA ESTRUCTURAL 2"" X 6"" 4 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-impregnado-dimensionado-verde-2x3-3-2-mt/p,$6270,"PINO DIMENSIONADO VERDE IMPREGNADO 2"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cuarton-4x4-3-2-mt/p,$9870,"PINO CUARTON 4"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-1x3-3-2-mt/p,$1890,"PINO DIMENSIONADO VERDE 1"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pilar-pino-hilam-115-x-115-x-2500-mm/p,$40790,"PILAR PINO HILAM 115 X 115 MM 2,5 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x8-3-2-mt/p,$9900,"PINO DIMENSIONADO VERDE 2"" X 8"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/viga-estructural-2-x-6-4-8-mt/p,$22660,"VIGA ESTRUCTURAL 2"" X 6"" 4,8 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cuarton-3x3-3-2-mt/p,$7490,"PINO CUARTON 3"" X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-dimensionado-verde-2-x-6-3-2-mt/p,$11880,"PINO DIMENSIONADO VERDE 2"" X 6"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pilar-pino-hilam-90-x-90-x-2500-mm/p,$23910,"PILAR PINO HILAM 90 X 90 MM 2,5 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x10-3-2-mt/p,$21590,"PINO DIMENSIONADO VERDE 2"" X 10"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-dimensionado-verde-1-x-5-3-2-mt/p,$4290,"PINO DIMENSIONADO VERDE 1"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-dimensionado-verde-1-x-6-3-2-mt/p,$3690,"PINO DIMENSIONADO VERDE 1"" X 6"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-cepillado-seco-2-x-5-3-2-mt/p,$9290,"PINO CEPILLADO SECO 2"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-betania-90-x-500-x-3000-mm/p,$72990,CUBIERTA 90° 500 X 3000 MM BETANIA,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-impregnado-dimensionado-verde-2x2-3-2-mt/p,$4290,"PINO DIMENSIONADO VERDE IMPREGNADO 2"" X 2"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-master-muebleria-15-x-1-220-x-2-440-mm/p,$45390,TERCIADO MASTER MUEBLERIA 15 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/perfil-seco-piso-1x4-3-2-mt/p,$3590,"PINO PISO SECO 1"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-blanco-18-x-1-830-x-2-500-mm/p,$54090,MELAMINA MDP 18 X 1830 X 2500 MM BLANCO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-marmol-salamanca-90-x-500-x-3000-mm/p,$72990,CUBIERTA 90° 500 X 3000 MM MARMOL SALAMANCA,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tabla-tapa-3-2-mt/p,$890,"TABLA TAPA 1 X 3"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/treillage-madera-marco-1-x-2-mt/p,,TREILLAGE MADERA CON MARCO 1 X 2 MT,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/treillage-madera-marco-0-60-x-2-mt/p,,"TREILLAGE MADERA CON MARCO 0,60 X 2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-marmol-italia-300-x-60-cm/p,,CUBIERTA 90° 600 X 3000 MM MARMOL ITALIA,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-muebleria-18-x-1220-x-2440-mm/p,,TERCIADO MUEBLERIA 18 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-finger-18-x-1020-x-2440/p,,TABLERO FINGER 18 X 1020 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-muebleria-15-x-1220-x-2440-mm/p,,TERCIADO MUEBLERIA 15 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-osb-15-1-x-1-220-x-2-440-mm/p,,"TABLERO OSB 15,1 X 1220 X 2440 MM",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-90-60x300cm-black-pearl/p,,CUBIERTA 90° 600 X 3000 MM BLACK PEARL,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/perfil-seco-machihembrado-3-4x5-3-2-mt/p,,"PINO MACHIHEMBRADO SECO 3/4"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-multiuso-18-x-1220-x-2440-mm/p,,TERCIADO MULTIUSO 18 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-verde-dimensionado-2x5-3-2-mt/p,,"PINO DIMENSIONADO VERDE 2"" X 5"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-marmol-italia-300-x-50-cm/p,,CUBIERTA 90° 500 X 3000 MM MARMOL ITALIA,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/perfil-seco-machihembrado-3-4x4-3-2-mt/p,,"PINO MACHIHEMBRADO SECO 3/4"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-impregnado-dimensionado-verde-1x4-3-2-mt/p,,"PINO DIMENSIONADO VERDE IMPREGNADO 1"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-multiuso-15-x-1220-x-2440-mm/p,,TERCIADO MULTIUSO 15 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-90-60x300cm-peumo/p,,CUBIERTA 90° 600 X 3000 MM PEUMO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/viga-estructural-2-x-8-4-8-mt/p,,"VIGA ESTRUCTURAL 2"" X 8"" 4,8 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-90-50x300cm-marmol-carrara/p,,CUBIERTA 90° 500 X 3000 MM MARMOL CARRARA,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-coigue-basico-15x1830x2500-mm/p,,MELAMINA ECOPLUS 15 X 1830 X 2500 MM COIGUE BASIC,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tablero-osb-casa-ultu-9-x-1220-x-2440-mm/p,,TABLERO OSB CASA ULTU 9 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/terciado-ranurado-colonial-9-x-1-220-x-2-440-mm/p,,TERCIADO RANURADO COLONIAL 9 X 1220 X 2440 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-pvc-roble-rustico-22-x-0-45-mm-por-10-mt/p,,"TAPACANTO PVC ROBLE RUSTICO 22 X 0,45 MM 10 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-santorini-22-x-0-45-mm/p,,"TAPACANTO PVC SANTORINI 22 X 0,45 MM POR METRO",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-casta%C3%B1o-blanco-22-x-0-45-mm/p,,"TAPACANTO PVC CASTANO BLANCO 22 X 0,45 MM POR METRO",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-gris-claro-22-x-0-45-mm/p,,"TAPACANTO PVC GRIS CLARO 22 X 0,45 MM POR METRO",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-softwood-casta%C3%B1o-blanco-15x1830x2500-mm/p,,MELAMINA MDP 15 X 1830 X 2500 MM CASTANO BLANCO SOFTWOOD,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/cubierta-90-50x300cm-peumo/p,,CUBIERTA 90° 500 X 3000 MM PEUMO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-carbon-15x1830x2500-mm/p,,MELAMINA VESTO MDP 15 X 2500 X 1830 MM CARBON,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-softwood-nogal-15x1830x2500-mm/p,,MELAMINA MDP 15 X 1830 X 2500 MM NOGAL AMAZONICO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-gris-liso-15x1830x2500-mm/p,,MELAMINA MDP 15 X 1830 X 2500 MM GRIS LISO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/pino-dimensionado-impregnado-2-x-4-3-2-mt/p,,"PINO DIMENSIONADO VERDE IMPREGNADO 2"" X 4"" 3,2 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-caramel-15x1830x2500-mm/p,,MELAMINA VESTO MDP 15 X 1830 X 2500 MM CARAMEL,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-mdp-espresso-15x1830x2500-mm/p,,MELAMINA VESTO MDP ESPRESSO 15 X 1830 X 2500 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-pvc-negro-22-x-0-45-mm-por-10-mt/p,,"TAPACANTO PVC NEGRO 22 X 0,45 MM 10 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-masisa-mdp-carvalo-15-x-1-830-x-2-500-mm/p,,MELAMINA MDP 15 X 1830 X 2500 MM CARVALO,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-titanio-velvet-22-x-0-45-mm-rollo-10-m/p,,"TAPACANTO TITANIO VELVET 22 X 0,45 MM ROLLO 10 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-pvc-lino-21-x-0-4-mm-por-10-mt/p,,"TAPACANTO PVC LINO 21 X 0,4 MM 10 MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-de-pvc-origen-andino-22-x-0-45-mm-por-mt/p,,"TAPACANTO PVC ORIGEN ANDINO 22 X 0,45 MM POR MT",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/melamina-vesto-mdp-negro-15-x-1-830-x-2-500-mm/p,,MELAMINA VESTO MDP NEGRO 15 X 1830 X 2500 MM,2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
+https://www.construmart.cl/tapacanto-nogal-amazonico-22-mm-25-mt/p,,"TAPACANTO PVC NOGAL AMAZONICO 22 X 0,40 MM POR METRO",2024-01-24T20:18:14.969Z,I TARAPACA,IQUIQUE
